@@ -1,0 +1,7 @@
+.cookie
+*.json
+.download
+.email
+images
+.download_location
+tadpoles-downloader.zip
